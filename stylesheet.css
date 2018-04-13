@@ -1,0 +1,94 @@
+body { background-image: url("cool-background.jpg"); }
+h1{float: left;}
+
+div.class{
+	float:right;
+	margin-left: 1em;
+	margin-top: 1em;
+}
+
+div.container { 
+				width: 80%;
+				margin: 80px;
+				margin-right: auto;
+				margin-left: auto;
+				line-height: 250%;}
+
+div.header{padding: 10em;
+		  background-image: url("header.png"); 
+		  background-repeat: no-repeat;
+		  clear: both;
+		  text-align: left;}
+		  
+div.footer {padding: 1.5em;
+		 color: white;
+		 background-image: url("background2.jpg"); 
+		 clear: left;
+		 text-align: left;}
+
+
+h1.header {padding: 0.5em;
+		   margin: 0;
+		   text-align: center;}
+
+div.left {float: left;
+        margin-top: 4em;
+		width: 200px;
+        height: 1000px;
+		padding: 1em;
+		text-align: center;}
+
+
+div.content { margin-left: 1px;
+			padding: 1em;
+		   text-align: left;
+		 }
+div.it
+		{float:left;
+		  margin: 20px;
+		  height:530px;
+		  float:left;
+		  text-align: center;
+		  padding:1em;
+		  border: 1px solid grey;
+		  width:230px;
+		  
+		}
+div.it1{float:left;
+		  border:transparent;
+		  border-radius:5px;
+		  line-height: 100%;
+		  font-family: calibri;
+		  height:130px ;
+		  width:250px;
+		  text-align: left;
+		  margin-top:8px;
+		  text-align: left;
+
+		  
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+
+
